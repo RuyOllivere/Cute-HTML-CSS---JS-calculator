@@ -15,8 +15,6 @@
 
 // }
 
-// ...código existente...
-
 let input = document.getElementById('input-text');
 let lastResult = '';
 let justCalculated = false;
